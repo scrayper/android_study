@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">MenuSample</string>
+    <string name="menu_set">セット</string>
+    <string name="list_options_FreeWeight">フリーウェイト</string>
+    <string name="list_options_machine">フリーウェイトandマシン</string>
+    <string name="list_context_desc">説明を表示</string>
+    <string name="list_context_order">メニューに追加</string>
+    <string name="list_context_header">操作を選んでください</string>
+    <string name="setting_title">設定完了</string>
+    <string name="setteing_desc">以下のエクササイズを今日のメニューに追加しました。\n頑張りましょう!</string>
+    <string name="sec_screen_title">設定完了</string>
+    <string name="sec_screen_message">以下のトレーニングをメニューに追加しました。\n他にメニューを選ぶ場合は
+        「リストへ戻る」ボタンをタップしてください。</string>
+    <string name="sec_screen_button">リストに戻る</string>
+    <string name="unit">セット</string>
+</resources>
